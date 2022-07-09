@@ -1,0 +1,41 @@
+{
+  "name": " Video Chat Room",
+  "short_name": "Chat Link",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#272727",
+  "theme_color": "#272727",
+  "author": "Paul",
+  "description": "Video Chat Room",
+  "homepage_url": "https://chatlink.in/",
+  "url": "https://chatlink.in/",
+  "lang": "EN",
+  "screenshots": [
+    {
+      "src": "https://chatlink.in/sample.jpg",
+      "type": "image/png",
+      "size": "1478x1988",
+      "description": "Chat Link"
+    }
+  ],
+  "features": [
+    "Feature ",
+    "Feature 2",
+    "Feature 3"
+  ],
+  "orientation": "any",
+  "prefer_related_applications": false
+}
